@@ -43,5 +43,26 @@ The images capture a diverse range of scenes, including sports, animals, urban s
    - Takes an image and generates captions word by word.
    - Stops when an end tag is encountered or the maximum sequence length is reached.
 
-![hello](https://github.com/pratikringe46/Image-Caption-Generator/blob/main/images/download.png?raw=true)
+## Results
+---------------------Actual---------------------<br>
+start black dog and spotted dog are fighting end<br>
+start black dog and tri-colored dog playing with each other on the road end<br>
+start black dog and white dog with brown spots are staring at each other in the street end<br>
+start two dogs of different breeds looking at each other on the road end<br>
+start two dogs on pavement moving toward each other end<br>
+--------------------Predicted-------------------- <br>
+start black and white dog is running through the beach end<br>
+![img1](https://github.com/pratikringe46/Image-Caption-Generator/blob/main/images/download.png?raw=true)
+
+
+---------------------Actual---------------------<br>
+start little girl covered in paint sits in front of painted rainbow with her hands in bowl end<br>
+start little girl is sitting in front of large painted rainbow end<br>
+start small girl in the grass plays with fingerpaints in front of white canvas with rainbow on it end<br>
+start there is girl with pigtails sitting in front of rainbow painting end<br>
+start young girl with pigtails painting outside in the grass end<br>
+--------------------Predicted--------------------<br>
+start girl sitting in front of rainbow in it end<br>
+![img2](https://github.com/pratikringe46/Image-Caption-Generator/blob/main/images/download_2.png?raw=true)
+
 
