@@ -43,3 +43,5 @@ The images capture a diverse range of scenes, including sports, animals, urban s
    - Takes an image and generates captions word by word.
    - Stops when an end tag is encountered or the maximum sequence length is reached.
 
+![hello](https://github.com/pratikringe46/Image-Caption-Generator/blob/main/images/download.png?raw=true)
+
